@@ -3,7 +3,13 @@
 <img width="1115" height="635" alt="image" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 ![Overview](https://github.com/pcnfernando/integration-samples2/blob/main/ballerina-integrator/shipment-processor/images/DataFlow.png)
 <img width="1115" height="635" alt="image" src="images/OverView.png" />
+![Test 1 - GitHub Raw](https://raw.githubusercontent.com/pcnfernando/integration-samples2/main/ballerina-integrator/shipment-processor/images/DataFlow.png)
 
+![Test 2 - GitHub User Content](https://github.com/pcnfernando/integration-samples2/raw/main/ballerina-integrator/shipment-processor/images/DataFlow.png)
+
+![Test 3 - GitHub Blob](https://github.com/pcnfernando/integration-samples2/blob/main/ballerina-integrator/shipment-processor/images/DataFlow.png)
+
+![Test 4 - Known Working](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 **Flow - Diagram**
 <img width="1434" height="613" alt="image" src="https://github.com/pcnfernando/integration-samples2/blob/main/ballerina-integrator/shipment-processor/images/DataFlow.png" />
@@ -112,6 +118,7 @@ Click Generate URL
 
 2025-10-16T16:27:58.255Z Application Logs v1.0 Production INFO CSV processing completed: 250915_2k_shipments.csv, batches: 3, total: 2025 {"module":"shashika/shipmentprocessor","correlationId":"ea532551-450a-49d4-959c-0fc364cce0d9"}
 2025-10-16T16:27:58.258Z Application Logs v1.0 Production INFO File processing completed: 250915_2k_shipments.csv, total: 2025, successful: 2025, failed: 0, quarantined: 0, enriched: 2025, ndjson files: 3, db inserted: 2025 {"module":"shashika/shipmentprocessor","correlationId":"ea532551-450a-49d4-959c-0fc364cce0d9"}
+
 
 
 
